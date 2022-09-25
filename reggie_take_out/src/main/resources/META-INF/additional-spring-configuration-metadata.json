@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.druid.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.druid.driver-class-name."
+    },
+    {
+      "name": "spring.datasource.druid.password",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.druid.password."
+    }
+  ] }
